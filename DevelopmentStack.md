@@ -10,7 +10,7 @@ Svelte
 Node.js  
 Express  
 
-*DB's for Node.js:*
+*DB's for Node.js:*  
 Mongoose, MongoDB adapters  
 MySql  
 
