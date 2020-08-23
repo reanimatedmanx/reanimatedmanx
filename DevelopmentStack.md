@@ -14,7 +14,7 @@ Express
 Mongoose, MongoDB adapters  
 MySql  
 
-*Other:*
+*Other:*  
 Yeoman  
 Webpack  
 Storybook  
