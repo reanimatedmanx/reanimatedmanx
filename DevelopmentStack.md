@@ -6,7 +6,7 @@ Next.js
 Angular  
 Svelte  
 
-*Backend:*
+*Backend:*  
 Node.js  
 Express  
 
