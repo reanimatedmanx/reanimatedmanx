@@ -1,6 +1,6 @@
 ### Heyo! 💬
 
-My name is Alex, a mere JS/Node developer from Moldova ready for any interesting challenge. 
+My name is Alex, a mere JS/Node developer from Moldova ready for any interesting challenge.
 Boredom kills me, so if you want me dead, give me some UI related things. But srsly, I can do anything provided there is enough coin :moneybag:
 
 ### Professional work :city_sunrise:
