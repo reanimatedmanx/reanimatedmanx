@@ -5,7 +5,8 @@ Boredom kills me, so if you want me dead, give me some UI related things. But sr
 
 ### Professional work :city_sunrise:
 
-I started working as a freelancer on various sites (mostly Russian), after that my first company was Endava where I got proficient in all sorts of things mostly on Angular, and Node.js. After 3 years there I moved to my carrier to next company which specialized in React and I am working here currently. 
+I started as a freelancer on various sites, after that my first company was Endava where I got work on several projects written Angular, and Node.js.  
+After 3 years there I moved to next company which specialized in React and I am working currently here. 
 
 [Development stack](https://github.com/one-thunder/one-thunder/blob/master/DevelopmentStack.md)
 
