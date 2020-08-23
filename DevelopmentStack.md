@@ -1,10 +1,10 @@
 ## Development stack: :metal:
 
 *UI Frameworks:*  
-React
-Next.js
-Angular
-Svelte
+React  
+Next.js  
+Angular  
+Svelte  
 
 *Backend:*
 Node.js  
