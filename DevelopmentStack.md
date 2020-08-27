@@ -9,8 +9,8 @@ Svelte
 *Backend:*  
 Node.js  
 Express
-Socket.io
-GraphQL
+Socket.io  
+GraphQL  
 
 *DB's for Node.js:*  
 Mongoose, MongoDB adapters  
