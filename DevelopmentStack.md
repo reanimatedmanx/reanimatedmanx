@@ -8,7 +8,7 @@ Svelte
 
 *Backend:*  
 Node.js  
-Express
+Express  
 Socket.io  
 GraphQL  
 
