@@ -8,11 +8,20 @@ Svelte
 
 *Backend:*  
 Node.js  
-Express  
+Express
+Socket.io
+GraphQL
 
 *DB's for Node.js:*  
 Mongoose, MongoDB adapters  
 MySql  
+
+*CMS*  
+Keystone.js  
+
+*Utils:*  
+Ramda  
+Lodash  
 
 *Other:*  
 Yeoman  
