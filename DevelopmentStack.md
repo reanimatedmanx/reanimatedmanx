@@ -1,29 +1,29 @@
 ## Development stack: :metal:
 
-*UI Frameworks:*  
+**UI Frameworks:**  
 React  
 Next.js  
 Angular  
 Svelte 
 
-*Backend:*  
+**Backend:**  
 Node.js  
 Express  
 Socket.io  
 GraphQL  
 
-*DB's for Node.js:*  
+**DB's for Node.js:**   
 MongoDB, Mongoose, MongoDB official adapter  
 MySql  
 
-*CMS*  
+**CMS**  
 Keystone.js  
 
-*FP:*  
+**FP:**  
 Ramda  
 Lodash  
 
-*Other:*  
+**Other:**  
 Yeoman  
 Webpack  
 Storybook  
