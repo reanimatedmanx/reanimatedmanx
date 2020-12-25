@@ -4,7 +4,7 @@
 React  
 Next.js  
 Angular  
-Svelte  
+Svelte 
 
 *Backend:*  
 Node.js  
@@ -13,13 +13,13 @@ Socket.io
 GraphQL  
 
 *DB's for Node.js:*  
-MongoDB, Mongoose, MongoDB official adapter
+MongoDB, Mongoose, MongoDB official adapter  
 MySql  
 
 *CMS*  
 Keystone.js  
 
-*Utils:*  
+*FP:*  
 Ramda  
 Lodash  
 
