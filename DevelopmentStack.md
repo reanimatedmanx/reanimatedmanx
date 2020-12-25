@@ -13,7 +13,7 @@ Socket.io
 GraphQL  
 
 *DB's for Node.js:*  
-Mongoose, MongoDB adapters  
+MongoDB, Mongoose, MongoDB official adapter
 MySql  
 
 *CMS*  
