@@ -12,10 +12,5 @@ After 3 years there I moved to next company which specialized in React and I am 
 
 ### Personal work ⚡
 
-Call me crazy but I REALLY LOVE C++, especially modern cxx and it's implications in game development.  
-At the moment, I am still learning it alongside with Unreal Engine.  
-
-Also I am a huge fan of Lineage2, so at this point I am creating a set of tools for decrypting/decoding/extracting all data from the game,  
-and will try to create a replica in Unreal Engine 4 just for the sake of lulz.  
-
+I really enjoy modern c++ and game development, so I am creating simple stuff for the sake of my soul  
 Some of this work you can see below :point_down:
