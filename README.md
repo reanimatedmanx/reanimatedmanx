@@ -5,9 +5,9 @@ Boredom kills me, so if you want me dead, give me some UI related things. But sr
 
 ### Professional work :city_sunrise:
 
-** Freelance on various sites 
-** Endava 
-** Crunchyroll (provided by MoldStud) 
+* Freelance on various sites 
+* Endava  
+* Crunchyroll (provided by MoldStud)  
 
 [Development stack](https://github.com/one-thunder/one-thunder/blob/master/DevelopmentStack.md)
 
