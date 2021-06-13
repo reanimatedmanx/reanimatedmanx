@@ -12,9 +12,9 @@ Socket.io
 GraphQL  
 
 **DB's for Node.js:**
-Postgres
-MongoDB
-MySql
+Postgres  
+MongoDB  
+MySql  
 
 **CMS**
 Keystone.js  
