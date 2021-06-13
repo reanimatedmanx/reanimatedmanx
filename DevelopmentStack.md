@@ -2,28 +2,29 @@
 
 **UI Frameworks:**  
 React  
-Next.js  
 Angular  
-Svelte 
 
 **Backend:**  
 Node.js  
-Express  
+Express
+Nest.js  
 Socket.io  
 GraphQL  
 
-**DB's for Node.js:**   
-MongoDB, Mongoose, MongoDB official adapter  
-MySql  
+**DB's for Node.js:**
+Postgres
+MongoDB
+MySql
 
-**CMS**  
+**CMS**
 Keystone.js  
 
 **FP:**  
 Ramda  
 Lodash  
 
-**Other:**  
+**Other:**
+Next.js  
 Yeoman  
 Webpack  
 Storybook  
