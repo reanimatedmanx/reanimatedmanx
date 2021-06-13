@@ -11,7 +11,7 @@ Nest.js
 Socket.io  
 GraphQL  
 
-**DB's for Node.js:**
+**DB's for Node.js:**  
 Postgres  
 MongoDB  
 MySql  
