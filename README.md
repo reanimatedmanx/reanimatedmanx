@@ -5,10 +5,10 @@ Boredom kills me, so if you want me dead, give me some UI related things. But sr
 
 ### Professional work :city_sunrise:
 
-* Orange
-* Freelance on various sites 
+* Orange  
+* Crunchyroll  
 * Endava  
-* Crunchyroll (provided by MoldStud)  
+* Freelance on various sites 
 
 [Development stack](https://github.com/one-thunder/one-thunder/blob/master/DevelopmentStack.md)
 
