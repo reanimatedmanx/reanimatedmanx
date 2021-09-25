@@ -1,12 +1,12 @@
 ## Development stack: :metal:
 
-**Frontend**  
+#### Frontend
 React  
 Next.js  
 Angular  
 Storybook  
 
-**Backend:**  
+#### Backend:
 Node.js  
 Express
 Nest.js  
@@ -14,25 +14,25 @@ Socket.io
 GraphQL  
 Elastic Search
 
-**DB's for Node.js:**  
+#### DB's for Node.js:
 Postgres  
 MongoDB  
 MySql  
 
-**CMS**
+#### CMS
 Keystone.js  
 
-**FP:**  
+#### FP
 Ramda  
 Lodash  
 
-**CI/CD**
+#### CI/CD
 Circle CI
 Github Actions
 Jenkins
 Pulumi
 
-**Build tools & maintenance**
+#### Build tools & maintenance
 PM2  
 Yeoman  
 Webpack  
