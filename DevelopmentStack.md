@@ -1,8 +1,10 @@
 ## Development stack: :metal:
 
-**UI Frameworks:**  
+**Frontend**  
 React  
+Next.js  
 Angular  
+Storybook  
 
 **Backend:**  
 Node.js  
@@ -10,6 +12,7 @@ Express
 Nest.js  
 Socket.io  
 GraphQL  
+Elastic Search
 
 **DB's for Node.js:**  
 Postgres  
@@ -23,8 +26,14 @@ Keystone.js
 Ramda  
 Lodash  
 
-**Other:**
-Next.js  
+**CI/CD**
+Circle CI
+Github Actions
+Jenkins
+Pulumi
+
+**Build tools & maintenance**
+PM2  
 Yeoman  
 Webpack  
-Storybook  
+Nx.js  
