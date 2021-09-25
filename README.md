@@ -5,6 +5,7 @@ Boredom kills me, so if you want me dead, give me some UI related things. But sr
 
 ### Professional work :city_sunrise:
 
+* Orange
 * Freelance on various sites 
 * Endava  
 * Crunchyroll (provided by MoldStud)  
