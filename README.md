@@ -18,5 +18,5 @@ I really enjoy modern c++ and game development, so I am creating stuff for the s
 
 More to come in upcoming months.
 
-*Mare Tranquillitatis*
-14/04/2022
+*Mare Tranquillitatis*  
+14/04/2022  
