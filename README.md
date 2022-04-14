@@ -14,5 +14,9 @@ Boredom kills me, so if you want me dead, give me some UI related things (It's a
 
 ### Personal work ⚡
 
-I really enjoy modern c++ and game development, so I am creating stuff for the sake of my soul  
-Some of this work you can see below :point_down:
+I really enjoy modern c++ and game development, so I am creating stuff for the sake of my soul ;)
+
+More to come in upcoming months.
+
+__Mare Tranquillitatis__
+14/04/2022
