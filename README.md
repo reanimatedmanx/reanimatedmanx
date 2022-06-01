@@ -5,8 +5,10 @@ Boredom kills me, so if you want me dead, give me some UI related things (It's a
 
 ### Professional work :city_sunrise:
 
+* Actioncy
 * Orange  
 * Crunchyroll  
+* Moldstud
 * Endava  
 * Freelance on various sites 
 
@@ -14,9 +16,5 @@ Boredom kills me, so if you want me dead, give me some UI related things (It's a
 
 ### Personal work ⚡
 
-I really enjoy modern c++ and game development, so I am creating stuff for the sake of my soul ;)
-
-More to come in upcoming months.
-
 *Mare Tranquillitatis*  
-14/04/2022  
+1/06/2022  
