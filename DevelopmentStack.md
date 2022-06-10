@@ -17,11 +17,11 @@ Gitlab Actions
 Artifactory  
 
 #### CLI
-GH CLI
-Circle CLI
-CF CLI
-JFrog CLI
-Python CLICK
+GH CLI  
+Circle CLI  
+CF CLI  
+JFrog CLI  
+Python CLICK  
 
 #### FE
 React  
