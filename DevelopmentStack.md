@@ -1,51 +1,80 @@
 ## Development stack: :metal:
 
+#### General purpose
+
+
+#### Build tools
+Volta  
+Lerna  
+Turborepo  
+Nx.dev  
+Webpack   
+Yeoman  
+npm / yarn / pnpm
+
+#### CI/CD
+CircleCI  
+Codefresh  
+Github Actions  
+Gitlab Actions  
+Artifactory  
+
+#### CLI
+GH CLI
+Circle CLI
+CF CLI
+JFrog CLI
+Python CLICK
+
 #### FE
 React  
 Next.js  
-Angular  
+Angular.js  
 Storybook  
 
 #### BE:
-Node.js  
+Vanilla Node.js  
 Express  
+Fastify  
 Nest.js  
 Socket.io  
 GraphQL  
-Elastic Search  
+Elastic Search 
 
-#### Infra (General knowledge)
+#### Databases
+SQlite  
+Postgres  
+MongoDB  
+
+#### Cache & Messaging
+Redis  
+RabbitMQ  
+
+#### Infrastructure
 Docker  
+Pulumi  
 Terraform  
 Terragrunt  
 Kubernates (Minikube, EKS)  
 Helm  
-AWS (EC2, EKS, ECS, S3, Route53, Cloudfront, CDN)  
-Azure (Identity, CDN)  
-Vercel  
-
-#### DB's for Node.js:
-Postgres  
-MongoDB  
-MySql  
+Vercel 
+AWS  
+  * EC2 
+  * EKS  
+  * ECS  
+  * S3  
+  * Route53  
+  * Cloudfront  
+  * aws-cli  
 
 #### CMS
-Keystone.js  
-Strapi
+Keystone  
+ButterCMS 
+Strapi  
 
 #### FP
 Ramda  
 Lodash  
 
-#### CI/CD
-Circle CI
-Codefresh
-Github Actions
-Pulumi  
-Artifactory  
 
-#### Build tools & maintenance
-PM2  
-Yeoman  
-Webpack  
-Nx.js  
+
