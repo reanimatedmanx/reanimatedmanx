@@ -1,8 +1,5 @@
 ## Development stack: :metal:
 
-#### General purpose
-
-
 #### Build tools
 Volta  
 Lerna  
