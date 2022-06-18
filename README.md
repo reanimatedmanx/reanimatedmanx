@@ -7,12 +7,12 @@ I am primarly focused on fullstack web development but am constantly learning ne
 Stay tuned! :)
 
 ### Professional work :city_sunrise:
-* Actioncy (UK)
-* CommunityFibre (UK)
-* Orange  
-* Crunchyroll  
-* Moldstud
-* Endava  
+* Actioncy (UK)  
+* CommunityFibre (UK)   
+* Orange (MD)  
+* Crunchyroll (US)  
+* Moldstud (MD)  
+* Endava (International)  
 * Freelance on various sites 
 
 [Development stack](https://github.com/one-thunder/one-thunder/blob/master/DevelopmentStack.md)
