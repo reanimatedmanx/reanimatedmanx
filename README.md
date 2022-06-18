@@ -7,7 +7,7 @@ I am primarly focused on fullstack web development but am constantly learning ne
 Stay tuned! :)
 
 ### Professional work :city_sunrise:
-* Actioncy
+* Actioncy (UK)
 * CommunityFibre (UK)
 * Orange  
 * Crunchyroll  
