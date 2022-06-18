@@ -1,10 +1,14 @@
-### Heyo! 💬
+### ./HelloWorld 👋
 
-My name is Alex, a mere JS/Node developer from Moldova ready for any interesting challenge.  
+My name is Alex, a mere JS/Node developer from Moldova ready for any interesting challenge.
+
+I am primarly focused on fullstack web development but am constantly learning new things to broaden my view and deep understanding of IoT, design, system programming.
+
+Stay tuned! :)
 
 ### Professional work :city_sunrise:
-
 * Actioncy
+* CommunityFibre (UK)
 * Orange  
 * Crunchyroll  
 * Moldstud
