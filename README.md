@@ -21,12 +21,12 @@ Stay tuned! :)
 
 ### About me 🤓
 
+🎓 Continuous Learning advocate  
 🚀 Senior software engineer  
+👾 Game developer hobbyist  
 🙈 Neat code/architecture advocate  
 👓 Official tech nerd  
-👾 Game developer hobbyist  
 ⚔  RPG/JRPG/MMORPG fan  
-🎓 Continuous Learning advocate  
 🐱 Cats lover  
 
 ### Personal work ⚡
