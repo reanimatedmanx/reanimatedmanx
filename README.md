@@ -21,13 +21,13 @@ Stay tuned! :)
 
 ### About me 🤓
 
-🔥 Senior software engineer 
-🙈 Neat code/architecture advocate
-👓 Official tech nerd
-👾 Game developer hobbyist
-⚔  RPG/JRPG/MMORPG fan
-🎓 Continuous Learning advocate
-🐱 Cats lover
+🔥 Senior software engineer  
+🙈 Neat code/architecture advocate  
+👓 Official tech nerd  
+👾 Game developer hobbyist  
+⚔  RPG/JRPG/MMORPG fan  
+🎓 Continuous Learning advocate  
+🐱 Cats lover  
 
 ### Personal work ⚡
 
