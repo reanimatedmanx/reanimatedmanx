@@ -21,7 +21,7 @@ Stay tuned! :)
 
 ### About me 🤓
 
-🔥 Senior software engineer  
+🚀 Senior software engineer  
 🙈 Neat code/architecture advocate  
 👓 Official tech nerd  
 👾 Game developer hobbyist  
