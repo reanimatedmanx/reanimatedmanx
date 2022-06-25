@@ -8,7 +8,7 @@ I can describe myself as:
 
 🚀 **Senior software engineer**  
 🙈 **Clean code advocate**  
-👾 **Game developer hobbyist**  
+👾 **Game development hobbyist**  
 ⚔  **Huge RPG/JRPG/MMORPG fan**  
 🎓 **Love learning**  
 🐱 **Love cats :3**
