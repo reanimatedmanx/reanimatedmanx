@@ -7,9 +7,9 @@ I am constantly learning new things to broaden my view and deep understanding of
 I can describe myself as:
 
 🚀 **Senior software engineer**  
-🙈 **Clean code advocate**  
 👾 **Game development hobbyist**  
 ⚔  **Huge RPG/JRPG/MMORPG fan**  
+🙈 **Clean code advocate**  
 🎓 **Love learning**  
 🐱 **Love cats :3**
 
