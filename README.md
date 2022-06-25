@@ -6,12 +6,12 @@ I am constantly learning new things to broaden my view and deep understanding of
 
 I can describe myself as:
 
-🎓 Continuous Learning advocate  
-🚀 Senior software engineer  
-👾 Game developer hobbyist  
-🙈 Clean code advocate  
-⚔  RPG/JRPG/MMORPG fan  
-🐱 Love cats :3
+🎓 **Continuous Learning advocate**  
+🚀 **Senior software engineer**  
+👾 **Game developer hobbyist**  
+🙈 **Clean code advocate**  
+⚔  **RPG/JRPG/MMORPG fan**  
+🐱 **Love cats :3**
 
 Stay tuned! :)
 
