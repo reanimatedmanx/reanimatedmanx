@@ -13,13 +13,8 @@ A few things about me:
 🐱 **Love cats :3**
 
 ### Professional work 💼
-* Actioncy
-* CommunityFibre
-* Orange
-* Crunchyroll
-* Moldstud
-* Endava
-* Freelance on various sites 
+
+[Companies](https://github.com/reanimated-man/reanimated-man/blob/master/Companies.md)
 
 [Development stack](https://github.com/reanimated-man/reanimated-man/blob/master/DevelopmentStack.md)
 
