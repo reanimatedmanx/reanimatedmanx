@@ -1,10 +1,9 @@
 ### ./HelloWorld 👋
 
 My name is Alex, fullstack developer from MD ready for any interesting challenge.
-
 I am constantly learning new things to broaden my view and deep understanding of IoT, design, CG, system programming, hardware.
 
-I can describe myself as:
+A few things about me:
 
 🚀 **Senior software engineer**  
 👾 **Game development hobbyist**  
@@ -12,8 +11,6 @@ I can describe myself as:
 🙈 **Clean code advocate**  
 🎓 **Love learning**  
 🐱 **Love cats :3**
-
-Stay tuned! :)
 
 ### Professional work 💼
 * Actioncy
