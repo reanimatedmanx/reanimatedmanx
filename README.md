@@ -21,7 +21,7 @@ A few things about me:
 * Endava
 * Freelance on various sites 
 
-[Development stack](https://github.com/one-thunder/one-thunder/blob/master/DevelopmentStack.md)
+[Development stack](https://github.com/reanimated-man/reanimated-man/blob/master/DevelopmentStack.md)
 
 ### Personal work ⚡
 
