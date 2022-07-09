@@ -1,9 +1,9 @@
-### ./HelloWorld 👋
+### Hi! 👋
 
-My name is Alex, fullstack developer from MD ready for any interesting challenge.
+Hi, I'm Alex (aka RM) a fullstack developer from 🇲🇩 ready for any interesting challenge.
 I am constantly learning new things to broaden my view and deep understanding of IoT, design, CG, system programming, hardware.
 
-A few things about me:
+A few things about me
 
 🚀 **Senior software engineer**  
 👾 **Game development hobbyist**  
