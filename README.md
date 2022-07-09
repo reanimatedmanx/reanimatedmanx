@@ -9,8 +9,6 @@ A few things about me:
 👾 **Game development hobbyist**  
 ⚔  **Huge RPG/JRPG/MMORPG fan**  
 🙈 **Clean code advocate**  
-🎓 **Love learning**  
-🐱 **Love cats :3**
 
 ### Professional work 💼
 
@@ -20,7 +18,7 @@ A few things about me:
 
 ### Personal work ⚡
 
-Nothing I am trully proud of. Working on it.
+Nothing I am trully proud of. Working on it :fire:
 
 *Mare Tranquillitatis*  
 31/05/2022  
