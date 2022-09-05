@@ -54,7 +54,7 @@ Terraform
 Terragrunt  
 Kubernates (Minikube, EKS)  
 Helm  
-Vercel 
+Vercel  
 AWS  
   * EC2 
   * EKS  
