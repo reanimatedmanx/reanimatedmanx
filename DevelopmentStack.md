@@ -68,6 +68,9 @@ AWS
 Keystone  
 ButterCMS 
 Strapi  
+Storyblok  
+Graph
+Ghost
 
 #### FP
 Ramda  
