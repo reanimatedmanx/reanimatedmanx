@@ -12,16 +12,20 @@ A few things about me
 ⚔  **Huge RPG/JRPG/MMORPG fan**  
 🙈 **Clean code advocate**  
 
-### Professional work 💼
+### 💼 Professional work 
 
 [Companies](https://github.com/reanimated-man/reanimated-man/blob/master/Companies.md)
 
 [Development stack](https://github.com/reanimated-man/reanimated-man/blob/master/DevelopmentStack.md)
 
-### Personal work ⚡
+### ⚡ Personal work 
 
 Nothing I am trully proud of. Working on it :fire:
 
 *Mare Tranquillitatis*  
 31/05/2022  
 
+
+### ☕ Social 
+
+[Medium](https://bit.ly/3DhduS7)
