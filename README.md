@@ -22,7 +22,7 @@ A few things about me
 
 [Instagram](https://www.instagram.com/reanimatedman.dev/)
 
-𝓢𝓽𝓾𝓯𝓯 𝓘 𝓭𝓸. 🤘
+𝓢𝓽𝓾𝓯𝓯 𝓘 𝓭𝓸. 🤘  
 🌟 @rmx.writing  
 📸 @rmx.photos  
 👨‍💻 @rmx.development  
