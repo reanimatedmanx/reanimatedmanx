@@ -18,14 +18,26 @@ A few things about me
 
 [Development stack](https://github.com/reanimated-man/reanimated-man/blob/master/DevelopmentStack.md)
 
+### ☕ Hobbies and side hustles 
+
+[Instagram](https://www.instagram.com/reanimatedman.dev/)
+
+𝓢𝓽𝓾𝓯𝓯 𝓘 𝓭𝓸. 🤘
+🌟 @rmx.writing
+📸 @rmx.photos
+👨‍💻 @rmx.development
+🎃 @rmx.illustration
+💀 @rmx.3dsculpting
+🛸 @rmx.3dmodeling
+
+reanimatedman.dev
+
+[Medium](https://bit.ly/3DhduS7)
+
+
 ### ⚡ Personal work 
 
-Nothing I am trully proud of. Working on it :fire:
+Nothing I am trully proud of. STILL, despite all odds, when the free time hits, I'm working on it 🔥
 
 *Mare Tranquillitatis*  
 31/05/2022  
-
-
-### ☕ Social 
-
-[Medium](https://bit.ly/3DhduS7)
