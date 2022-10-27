@@ -20,7 +20,7 @@ A few things about me
 
 ### ☕ Hobbies and side hustles 
 
-[Instagram](https://www.instagram.com/reanimatedman.dev/)
+#### [Instagram](https://www.instagram.com/reanimatedman.dev/)
 
 𝓢𝓽𝓾𝓯𝓯 𝓘 𝓭𝓸. 🤘  
 🌟 @rmx.writing  
@@ -30,10 +30,11 @@ A few things about me
 💀 @rmx.3dsculpting  
 🛸 @rmx.3dmodeling  
 
-reanimatedman.dev
+#### [Medium](https://bit.ly/3DhduS7)
 
-[Medium](https://bit.ly/3DhduS7)
-
+[RMx / #mentalhealth](https://medium.com/@reanimated-man/list/rmx-mentalhealth-7c90c5465126)
+[RMx / Thy #writing accident](https://medium.com/@reanimated-man/list/rmx-thy-writing-accident-48e4a6b626c0)
+[RMx / The #photography incident](https://medium.com/@reanimated-man/list/rmx-the-photography-incident-87eb8da88a6d)
 
 ### ⚡ Personal work 
 
