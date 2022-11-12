@@ -23,12 +23,12 @@ A few things about me
 #### [Instagram](https://www.instagram.com/reanimatedman.dev/)
 
 𝓢𝓽𝓾𝓯𝓯 𝓘 𝓭𝓸. 🤘  
-🌟 [@rmx.writing](https://www.instagram.com/rmx.writing/)
-📸 [@rmx.photos](https://www.instagram.com/rmx.photos/)
-👨‍💻 [@rmx.development](https://www.instagram.com/rmx.development/)
-🎃 [@rmx.illustration](https://www.instagram.com/rmx.illustration/)
-💀 [@rmx.3dsculpting](https://www.instagram.com/rmx.sculpting/)
-🛸 [@rmx.3dmodeling](https://www.instagram.com/rmx.3dmodeling/)
+🌟 [@rmx.writing](https://www.instagram.com/rmx.writing/)  
+📸 [@rmx.photos](https://www.instagram.com/rmx.photos/)  
+👨‍💻 [@rmx.development](https://www.instagram.com/rmx.development/)  
+🎃 [@rmx.illustration](https://www.instagram.com/rmx.illustration/)  
+💀 [@rmx.3dsculpting](https://www.instagram.com/rmx.sculpting/)  
+🛸 [@rmx.3dmodeling](https://www.instagram.com/rmx.3dmodeling/)  
 
 #### [Medium](https://bit.ly/3DhduS7)  
 
