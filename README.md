@@ -33,8 +33,8 @@ A few things about me
 #### [Medium](https://bit.ly/3DhduS7)  
 
 [RMx / #mentalhealth](https://medium.com/@reanimated-man/list/rmx-mentalhealth-7c90c5465126)  
-[RMx / Thy #writing accident](https://medium.com/@reanimated-man/list/rmx-thy-writing-accident-48e4a6b626c0)  
-[RMx / The #photography incident](https://medium.com/@reanimated-man/list/rmx-the-photography-incident-87eb8da88a6d)  
+[RMx / #writing](https://medium.com/@reanimated-man/list/rmx-thy-writing-accident-48e4a6b626c0)  
+[RMx / #photography](https://medium.com/@reanimated-man/list/rmx-the-photography-incident-87eb8da88a6d)  
 
 ### ⚡ Personal work 
 
