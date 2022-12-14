@@ -15,7 +15,7 @@ I am constantly learning new things to broaden my view and deep understanding of
 
 𝓢𝓽𝓾𝓯𝓯 𝓘 𝓭𝓸. 🤘  
 
-👾 [Instagram](https://www.instagram.com/reanimatedman.dev/)
+👾 [Instagram](https://www.instagram.com/reanimatedman.dev/)  
 🌟 [@rmx.writing](https://www.instagram.com/rmx.writing/)  
 📸 [@rmx.photos](https://www.instagram.com/rmx.photos/)  
 👨‍💻 [@rmx.development](https://www.instagram.com/rmx.development/)  
