@@ -63,7 +63,6 @@ I worked with this tech & am proficient in most of the following.
 - SQlite  
 - Postgres  
 - MariaDB
-
 - MongoDB  
 - Redis KV
 - Elastic Search 
