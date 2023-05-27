@@ -10,8 +10,7 @@ I recently re-discovered my love towards open source 💖 and made a commitment 
 
 
 ### ⚡ Personal
-
-🙈 **Clean code advocate**  
+  
 🧌 **RPG/JRPG/MMORPG fan**  
 👾 **Gamedev enthusiast**  
 📸 **[Photography hobbyist](https://www.pexels.com/@reanimatedmanx/)**  
