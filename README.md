@@ -6,4 +6,12 @@ My name is Alex, and I am a passionate software engineer with over 10 years of e
 
 Throughout my career, I have been involved in numerous projects in domains such as data visualization, banking and internet payments, travel industries, eCommerce, video streaming, and game marketing. I approached each project with passion and dedication, striving to improve it to the best of my knowledge at the time.
 
-Being a geek and an introvert can be challenging, but I channel my love and care through my code and the way I interact with others on a daily basis.
+I recently re-discovered my love towards open source 💖 and made a commitment to devote the free time of my life to it for the rest of what is left for me.
+
+
+### ⚡ Personal
+
+👾 **Game development hobbyist**
+🧌 **RPG/JRPG/MMORPG fan**
+🙈 **Clean code advocate**
+📸 **[Photography hobbyist](https://www.pexels.com/@reanimatedmanx/)**
