@@ -1,80 +1,88 @@
-## Development stack: :metal:
+# Development stack: :metal:
 
-#### Build tools
-Volta  
-Lerna  
-Turborepo  
-Nx.dev  
-Webpack   
-Yeoman  
-npm / yarn / pnpm
+I worked with this tech & am proficient in most of the following.
 
-#### CI/CD
-CircleCI  
-Codefresh  
-Github Actions  
-Gitlab Actions  
-Artifactory  
+### Package Managagement / Toolchains
+- apt
+- brew
+- helm
+- volta
+- pacman
+- chocolatey
+- Artifactory
+- npm / yarn / pnpm
 
-#### CLI
-GH CLI  
-Circle CLI  
-CF CLI  
-JFrog CLI  
-Python CLICK  
+### Build tools / Code scaffolding
+- Nx
+- Make
+- Gulp
+- Lerna
+- Yeoman
+- Turborepo
 
-#### FE
-React  
-Next.js  
-Angular.js  
-Storybook  
+### CI / CD
+- CircleCI  
+- Codefresh  
+- Github Actions  
 
-#### BE:
-Vanilla Node.js  
-Express  
-Fastify  
-Nest.js  
-Socket.io  
-GraphQL  
-Elastic Search 
+### FE
+- VanillaJS
+- Angular  
+- React  
+- Next  
 
-#### Databases
-SQlite  
-Postgres  
-MongoDB  
+### State management
+- Redux
+- Recoil
+- Redux Saga
 
-#### Cache & Messaging
-Redis  
-RabbitMQ  
+### Component Libraries
+- Material
+- Semantic
+- Chakra
+- Ant
 
-#### Infrastructure
-Docker  
-Pulumi  
-Terraform  
-Terragrunt  
-Kubernates (Minikube, EKS)  
-Helm  
-Vercel  
-AWS  
-  * EC2 
-  * EKS  
-  * ECS  
-  * S3  
-  * Route53  
-  * Cloudfront  
-  * aws-cli  
+### FP
+- Ramda  
+- Lodash  
 
-#### CMS
-Keystone  
-ButterCMS 
-Strapi  
-Storyblok  
-Graph
-Ghost
+### BE
+- Nodejs
+- Express  
+- Fastify  
+- Nest.js
 
-#### FP
-Ramda  
-Lodash  
+### Comms
+- REST
+- GraphQL  
+- Socket.io  
+- Redis  
+- RabbitMQ  
 
+### Databases & Cache
+- SQlite  
+- Postgres  
+- MariaDB
 
+- MongoDB  
+- Redis KV
+- Elastic Search 
 
+### CMS
+- ButterCMS 
+- Storyblok 
+- Keystone  
+- Strapi  
+- Graph
+- Ghost
+
+### Infrastructure
+- Docker  
+- Pulumi  
+- Terraform  
+- Kubernates (Minikube, EKS)  
+
+# Cloud Providers & Services
+- Vercel  
+- Azure
+- AWS 
