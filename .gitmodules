@@ -1,0 +1,9 @@
+[submodule "professional/organisation/vexeye/vexeye/uix"]
+	path = professional/organisation/vexeye/vexeye/uix
+	url = https://github.com/vexeye/uix.git
+[submodule "professional/organisation/vexeye/vexeye/vexx"]
+	path = professional/organisation/vexeye/vexeye/vexx
+	url = https://github.com/vexeye/vexx.git
+[submodule "professional/organisation/vexeye/vexeye/hub"]
+	path = professional/organisation/vexeye/vexeye/hub
+	url = https://github.com/vexeye/hub.git
