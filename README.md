@@ -1,4 +1,4 @@
-# Hi there! 👋
+# 👋
 
 ![banner_under_construction_fb](https://user-images.githubusercontent.com/32410574/188499567-9d55b724-8df5-4f56-b083-f9e85b7657b1.png)
 
@@ -8,14 +8,16 @@ Throughout my career, I have been involved in numerous projects in domains such 
 
 I recently re-discovered my love towards open source 💖 and made a commitment to devote the free time of my life to it for the rest of what is left for me.
 
-## 💼 Professional
+## About
 
-Below are listed links to the companies I've worked at and the development stack I've worked with & learned.
+A few key points about my experience & passion.
 
-- [Companies](/about/Companies.md)
-- [Stack](/about/DevelopmentStack.md)
+### 💼 Professional
 
-## ⚡ Personal
+📑 [Companies](/about/Companies.md)  
+👓 [Stack](/about/DevelopmentStack.md)  
+
+### ⚡ Personal
 
 🧌 **RPG/JRPG/MMORPG fan**  
 👾 **Gamedev enthusiast**  
