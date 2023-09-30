@@ -8,14 +8,18 @@ Throughout my career, I have been involved in numerous projects in domains such 
 
 I recently re-discovered my love towards open source 💖 and made a commitment to devote the free time of my life to it for the rest of what is left for me.
 
-## 💼 Professional
+## About
+
+A few key points about my experience & passion.
+
+### 💼 Professional
 
 Below are listed links to the companies & the development stack I've worked with.
 
 - [Companies](/about/Companies.md)
 - [Stack](/about/DevelopmentStack.md)
 
-## ⚡ Personal
+### ⚡ Personal
 
 🧌 **RPG/JRPG/MMORPG fan**  
 👾 **Gamedev enthusiast**  
