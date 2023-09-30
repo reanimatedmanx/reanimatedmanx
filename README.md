@@ -14,10 +14,8 @@ A few key points about my experience & passion.
 
 ### 💼 Professional
 
-Below are listed links to the companies & the development stack I've worked with.
-
-- [Companies](/about/Companies.md)
-- [Stack](/about/DevelopmentStack.md)
+📑 [Companies](/about/Companies.md)
+👓 [Stack](/about/DevelopmentStack.md)
 
 ### ⚡ Personal
 
