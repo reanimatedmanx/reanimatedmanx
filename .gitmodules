@@ -7,3 +7,9 @@
 [submodule "professional/organisation/vexeye/vexeye/hub"]
 	path = professional/organisation/vexeye/vexeye/hub
 	url = https://github.com/vexeye/hub.git
+[submodule "professional/organisation/vexeye/vexeye-solutions/anamnesis"]
+	path = professional/organisation/vexeye/vexeye-solutions/anamnesis
+	url = https://github.com/vexeye-solutions/anamnesis.git
+[submodule "professional/organisation/vexeye/vexeye-solutions/nyx"]
+	path = professional/organisation/vexeye/vexeye-solutions/nyx
+	url = https://github.com/vexeye-solutions/nyx.git
