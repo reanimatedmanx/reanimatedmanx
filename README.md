@@ -10,7 +10,7 @@ I recently re-discovered my love towards open source 💖 and made a commitment 
 
 ## 💼 Professional
 
-Below are listed links to the companies I've worked at and the development stack I've worked with & learned.
+Below are listed links to the companies & the development stack I've worked with.
 
 - [Companies](/about/Companies.md)
 - [Stack](/about/DevelopmentStack.md)
