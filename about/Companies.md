@@ -1,7 +1,15 @@
-* Actioncy
-* CommunityFibre
-* Orange
-* Crunchyroll
-* Moldstud
+* Freelance
+  * Upwork
+  * Fiverr
 * Endava
-* Freelance on various sites 
+  * Internal CRM
+  * TravelPort
+  * WesternUnion
+* Orange
+  * CommunityFibre
+* Moldstud
+  * Crunchyroll  
+  * Actioncy
+  * Thought & Function
+  * Capex
+
