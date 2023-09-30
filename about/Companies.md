@@ -3,13 +3,14 @@
   * Fiverr
 * Endava
   * Internal CRM
-  * TravelPort
-  * WesternUnion
+  * Travel Port
+  * Western Union
 * Orange
-  * CommunityFibre
+  * Community Fibre
 * Moldstud
   * Crunchyroll  
   * Actioncy
   * Thought & Function
   * Capex
-
+* FLW
+* Amdaris
