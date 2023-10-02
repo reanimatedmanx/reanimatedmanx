@@ -14,5 +14,5 @@
 	path = professional/organisation/vexeye/vexeye-solutions/nyx
 	url = https://github.com/vexeye-solutions/nyx.git
 [submodule "personal/wiki"]
-	path = personal/wiki
+	path = wiki
 	url = https://github.com/reanimatedmanx/wiki.git
