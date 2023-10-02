@@ -23,3 +23,15 @@
 ## Universal
 
 - Notion
+
+### Communication
+
+- Slack
+- Discord
+- Rocket Client
+- Telegram
+- Whatsapp
+- Viber
+- Messanger
+- Zoom
+- Teams
