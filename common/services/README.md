@@ -10,3 +10,7 @@
 - Microsoft Store
 - Epic Games Store
 - Firefox Games Store
+
+Microsoft Azure
+
+Amazon AWS

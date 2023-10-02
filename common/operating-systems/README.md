@@ -14,3 +14,12 @@
 - Linux Mint
 - ZorinOS
 - Manjaro
+- PureOS
+- VanillaOS
+- NixOS
+- ParrotOS
+
+Vulkan
+OpenGL
+DirectX
+WebGL
