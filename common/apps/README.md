@@ -14,6 +14,7 @@
 - Blender
 - Krita
 - GIMP
+- OBS
 
 ## Servers
 
