@@ -16,6 +16,15 @@
 - GIMP
 - OBS
 
+### Browsers
+
+- Firefox
+- Firefox Dev
+- Edge
+- Chrome
+- Opera GX
+- Vivaldi
+
 ## Servers
 
 ## Embedded
