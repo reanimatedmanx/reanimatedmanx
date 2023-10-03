@@ -14,3 +14,8 @@
 - Linux Mint
 - ZorinOS
 - Manjaro
+- PureOS
+- VanillaOS
+- NixOS
+- ParrotOS
+- ElementaryOS
