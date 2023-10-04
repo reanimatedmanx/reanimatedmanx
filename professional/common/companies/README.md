@@ -1,24 +1,18 @@
 # 🚧 Companies (This document is a WIP)
 
-## Endava
+## 1. Endava
 
-### CRM (Internal client)
+  ### CRM (Internal client)
 
-### Travel Port
-
-`TBD`
-
-### Western Union
+  ### Travel Port
 
 `TBD`
 
-## Orange
-
-### Community Fibre
+  ### Western Union
 
 `TBD`
 
-## Moldstud
+## 2. Moldstud
 
 ### Crunchyroll
 
@@ -32,11 +26,18 @@
 
 `TBD`
 
-## Flawnet
+## 3. Orange
+
+### Community Fibre
 
 `TBD`
 
-## Amdaris
+
+## 4. Flawnet
+
+`TBD`
+
+## 5. Amdaris
 
 `TBD`
 
