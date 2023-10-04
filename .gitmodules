@@ -16,3 +16,6 @@
 [submodule "personal/wiki"]
 	path = wiki
 	url = https://github.com/reanimatedmanx/wiki.git
+[submodule "sandbox"]
+	path = sandbox
+	url = https://github.com/reanimatedmanx/sandbox.git
