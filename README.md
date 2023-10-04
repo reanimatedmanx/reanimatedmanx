@@ -14,8 +14,8 @@ A few key points about my experience & passion.
 
 ### 💼 Professional
 
-📑 [Companies](/about/Companies.md)  
-👓 [Stack](/about/DevelopmentStack.md)  
+📑 [Companies](/professional/common/companies/README.md)  
+👓 [Stack](/professional/common/stack/README.md)
 
 ### ⚡ Personal
 
