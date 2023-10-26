@@ -14,10 +14,10 @@
 	path = professional/organisation/vexeye/vexeye-solutions/nyx
 	url = https://github.com/vexeye-solutions/nyx.git
 [submodule "personal/wiki"]
-	path = wiki
+	path = shared/wiki
 	url = https://github.com/reanimatedmanx/wiki.git
 [submodule "sandbox"]
-	path = sandbox
+	path = shared/sandbox
 	url = https://github.com/reanimatedmanx/sandbox.git
 [submodule "assets"]
 	path = assets
