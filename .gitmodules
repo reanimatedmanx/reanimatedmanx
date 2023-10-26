@@ -22,3 +22,6 @@
 [submodule "assets"]
 	path = assets
 	url = https://github.com/reanimatedmanx/assets
+[submodule "shared/cli"]
+	path = shared/cli
+	url = https://github.com/reanimatedmanx/cli.git
