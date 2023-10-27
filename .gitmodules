@@ -25,3 +25,6 @@
 [submodule "shared/cli"]
 	path = shared/cli
 	url = https://github.com/reanimatedmanx/cli.git
+[submodule "shared/templates"]
+	path = shared/templates
+	url = https://github.com/reanimatedmanx/templates.git
