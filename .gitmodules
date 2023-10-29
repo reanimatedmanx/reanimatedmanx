@@ -28,3 +28,6 @@
 [submodule "shared/templates"]
 	path = shared/templates
 	url = https://github.com/reanimatedmanx/templates.git
+[submodule "shared/dashboard"]
+	path = shared/dashboard
+	url = https://github.com/reanimatedmanx/dashboard.git
