@@ -31,3 +31,6 @@
 [submodule "shared/dashboard"]
 	path = shared/dashboard
 	url = https://github.com/reanimatedmanx/dashboard.git
+[submodule "personal/projects/oss"]
+	path = personal/projects/oss
+	url = https://github.com/reanimatedmanx/oss.git
