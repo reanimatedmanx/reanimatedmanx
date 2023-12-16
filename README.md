@@ -1,8 +1,6 @@
-# 👋
-
 ![banner_under_construction_fb](https://user-images.githubusercontent.com/32410574/188499567-9d55b724-8df5-4f56-b083-f9e85b7657b1.png)
 
-Our name is X, Alex, Alexei, Alexander and other N identities dear to my heart. I refer to myself as us, but you shouldn't be bothered with any of my brain's shenennigans, so the usage of he/him which is closer to my physical appearance should be obvious.
+Our name is `⨉`, `Alex`, `Alexei`, `Alexander` and other `?` number of identities dear to my heart. I refer to myself as us, but you shouldn't be bothered with any of my brain's shenennigans, so the usage of he/him which is closer to my physical appearance will be absolutely appropriate.
 
 I am an extremely passionate software engineer with over 10 years of experience. I have worked as a freelancer, contractor, and full-time employee, gaining valuable insights into various aspects of the industry and molding into the context and environment I was placed in accordingly. Formless, shapeless [like water](https://www.youtube.com/watch?v=cJMwBwFj5nQ).
 
@@ -12,7 +10,7 @@ I recently re-discovered my love towards open source 💖 and made a commitment 
 
 ---
 
-## About
+## 👋 About
 
 A few key points about my experience & passion.
 
