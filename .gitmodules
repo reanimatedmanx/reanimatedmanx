@@ -34,3 +34,6 @@
 [submodule "personal/projects/oss"]
 	path = personal/projects/oss
 	url = https://github.com/reanimatedmanx/oss.git
+[submodule "personal/projects/freedom"]
+	path = personal/projects/freedom
+	url = https://github.com/reanimatedmanx/freedom.git
