@@ -37,3 +37,6 @@
 [submodule "personal/projects/freedom"]
 	path = personal/projects/freedom
 	url = https://github.com/reanimatedmanx/freedom.git
+[submodule "professional/organisation/vexeye/vexeye-wellness/babycorp"]
+	path = professional/organisation/vexeye/vexeye-wellness/babycorp
+	url = https://github.com/vexeye-wellness/babycorp
