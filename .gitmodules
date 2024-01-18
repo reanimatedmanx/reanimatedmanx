@@ -40,3 +40,6 @@
 [submodule "professional/organisation/vexeye/vexeye-wellness/babycorp"]
 	path = professional/organisation/vexeye/vexeye-wellness/babycorp
 	url = https://github.com/vexeye-wellness/babycorp
+[submodule "personal/endeavors/legacy/l2jx"]
+	path = personal/endeavors/legacy/l2jx
+	url = https://github.com/reanimatedmanx/l2jx.git
