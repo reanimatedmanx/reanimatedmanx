@@ -1,0 +1,10 @@
+version: "3"
+
+tasks:
+  md:init:
+    cmds:
+      - git submodule update --init --recursive
+  md:sync:
+    cmds:
+      - git submodule foreach "git checkout main"
+      - git submodule foreach "git pull"
