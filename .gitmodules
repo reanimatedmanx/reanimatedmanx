@@ -1,45 +1,60 @@
-[submodule "professional/organisation/vexeye/vexeye/uix"]
-	path = professional/organisation/vexeye/vexeye/uix
-	url = https://github.com/vexeye/uix.git
-[submodule "professional/organisation/vexeye/vexeye/vexx"]
-	path = professional/organisation/vexeye/vexeye/vexx
-	url = https://github.com/vexeye/vexx.git
-[submodule "professional/organisation/vexeye/vexeye/hub"]
-	path = professional/organisation/vexeye/vexeye/hub
-	url = https://github.com/vexeye/hub.git
-[submodule "professional/organisation/vexeye/vexeye-solutions/anamnesis"]
-	path = professional/organisation/vexeye/vexeye-solutions/anamnesis
-	url = https://github.com/vexeye-solutions/anamnesis.git
-[submodule "professional/organisation/vexeye/vexeye-solutions/nyx"]
-	path = professional/organisation/vexeye/vexeye-solutions/nyx
-	url = https://github.com/vexeye-solutions/nyx.git
-[submodule "personal/wiki"]
-	path = shared/wiki
-	url = https://github.com/reanimatedmanx/wiki.git
+#
+# Root.
+#
 [submodule "sandbox"]
 	path = shared/sandbox
-	url = https://github.com/reanimatedmanx/sandbox.git
+	url = git@github.com:reanimatedmanx/sandbox.git
 [submodule "assets"]
 	path = assets
-	url = https://github.com/reanimatedmanx/assets
+	url = git@github.com:reanimatedmanx/assets.git
+
+#
+# Shared.
+#
 [submodule "shared/cli"]
 	path = shared/cli
-	url = https://github.com/reanimatedmanx/cli.git
+	url = git@github.com:reanimatedmanx/cli.git
 [submodule "shared/templates"]
 	path = shared/templates
-	url = https://github.com/reanimatedmanx/templates.git
+	url = git@github.com:reanimatedmanx/templates.git
+[submodule "shared/wiki"]
+	path = shared/wiki
+	url = git@github.com:reanimatedmanx/wiki.git
 [submodule "shared/dashboard"]
 	path = shared/dashboard
-	url = https://github.com/reanimatedmanx/dashboard.git
-[submodule "personal/projects/oss"]
-	path = personal/projects/oss
-	url = https://github.com/reanimatedmanx/oss.git
-[submodule "professional/organisation/vexeye/vexeye-wellness/babycorp"]
-	path = professional/organisation/vexeye/vexeye-wellness/babycorp
-	url = https://github.com/vexeye-wellness/babycorp
-[submodule "personal/endeavors/legacy/l2jx"]
-	path = personal/projects/legacy/l2jx
-	url = https://github.com/reanimatedmanx/l2jx.git
+	url = git@github.com:reanimatedmanx/dashboard.git
+
+#
+# Personal.
+#
 [submodule "personal/projects/home"]
 	path = personal/projects/home
-	url = https://github.com/reanimatedmanx/home
+	url = git@github.com:reanimatedmanx/home.git
+[submodule "personal/projects/oss"]
+	path = personal/projects/oss
+	url = git@github.com:reanimatedmanx/oss.git
+[submodule "personal/projects/legacy/l2jx"]
+	path = personal/projects/legacy/l2jx
+	url = git@github.com:reanimatedmanx/l2jx.git
+
+#
+# Professional.
+#
+[submodule "professional/organisation/vexeye/vexeye/vexx"]
+	path = professional/organisation/vexeye/vexeye/vexx
+	url = git@github.com:vexeye/vexx.git
+[submodule "professional/organisation/vexeye/vexeye/uix"]
+	path = professional/organisation/vexeye/vexeye/uix
+	url = git@github.com:vexeye/uix.git
+[submodule "professional/organisation/vexeye/vexeye/hub"]
+	path = professional/organisation/vexeye/vexeye/hub
+	url = git@github.com:vexeye/hub.git
+[submodule "professional/organisation/vexeye/vexeye-solutions/anamnesis"]
+	path = professional/organisation/vexeye/vexeye-solutions/anamnesis
+	url = git@github.com:vexeye-solutions/anamnesis.git
+[submodule "professional/organisation/vexeye/vexeye-solutions/nyx"]
+	path = professional/organisation/vexeye/vexeye-solutions/nyx
+	url = git@github.com:vexeye-solutions/nyx.git
+[submodule "professional/organisation/vexeye/vexeye-wellness/babycorp"]
+	path = professional/organisation/vexeye/vexeye-wellness/babycorp
+	url = git@github.com:vexeye-wellness/babycorp
