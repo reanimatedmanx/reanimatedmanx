@@ -9,6 +9,10 @@
 	url = git@github.com:reanimatedmanx/assets.git
 	path = assets
 	branch = main
+[submodule "configs/os"]
+	url = git@github.com:reanimatedmanx/os.git
+	path = configs/os
+	branch = main
 
 #
 # Shared.
@@ -73,6 +77,3 @@
 	url = git@github.com:vexeye-wellness/babycorp
 	path = professional/organisation/vexeye/vexeye-wellness/babycorp
 	branch = main
-[submodule "config/os"]
-	path = config/os
-	url = git@github.com:reanimatedmanx/os.git
