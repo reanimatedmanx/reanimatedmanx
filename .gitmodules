@@ -37,9 +37,9 @@
 #
 # Personal.
 #
-[submodule "personal/projects/infra"]
-	url = git@github.com:reanimatedmanx/infra.git
-	path = personal/projects/infra
+[submodule "personal/projects/home"]
+	url = git@github.com:reanimatedmanx/home.git
+	path = personal/projects/home
 	branch = main
 [submodule "personal/projects/oss"]
 	url = git@github.com:reanimatedmanx/oss.git
