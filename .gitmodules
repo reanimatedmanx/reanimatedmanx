@@ -1,10 +1,6 @@
 #
 # Root.
 #
-[submodule "sandbox"]
-	url = git@github.com:reanimatedmanx/sandbox.git
-	path = shared/sandbox
-	branch = main
 [submodule "assets"]
 	url = git@github.com:reanimatedmanx/assets.git
 	path = assets
@@ -21,13 +17,21 @@
 	url = git@github.com:reanimatedmanx/cli.git
 	path = shared/cli
 	branch = main
+[submodule "shared/wiki"]
+	url = git@github.com:reanimatedmanx/wiki.git
+	path = shared/wiki
+	branch = main
+[submodule "shared/infra"]
+	url = git@github.com:reanimatedmanx/infra.git
+	path = shared/infra
+	branch = main
 [submodule "shared/templates"]
 	url = git@github.com:reanimatedmanx/templates.git
 	path = shared/templates
 	branch = main
-[submodule "shared/wiki"]
-	url = git@github.com:reanimatedmanx/wiki.git
-	path = shared/wiki
+[submodule "shared/sandbox"]
+	url = git@github.com:reanimatedmanx/sandbox.git
+	path = shared/sandbox
 	branch = main
 [submodule "shared/dashboard"]
 	url = git@github.com:reanimatedmanx/dashboard.git
@@ -48,6 +52,10 @@
 [submodule "personal/projects/legacy/l2jx"]
 	url = git@github.com:reanimatedmanx/l2jx.git
 	path = personal/projects/legacy/l2jx
+	branch = main
+[submodule "personal/projects/next/mmosandbox"]
+	path = personal/projects/next/mmosandbox
+	url = git@github.com:reanimatedmanx/mmosandbox.git
 	branch = main
 
 #
@@ -77,6 +85,3 @@
 	url = git@github.com:vexeye-wellness/babycorp
 	path = professional/organisation/vexeye/vexeye-wellness/babycorp
 	branch = main
-[submodule "personal/projects/next/mmosandbox"]
-	path = personal/projects/next/mmosandbox
-	url = git@github.com:reanimatedmanx/mmosandbox.git
