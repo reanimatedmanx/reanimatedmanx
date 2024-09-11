@@ -4,8 +4,11 @@ tasks:
   init:
     cmds:
       - git submodule update --init --recursive
+      - git submodule absorbgitdirs
   sync:
     cmds:
+      - git submodule sync --recursive
+      - git submodule update --recursive
       - git submodule foreach "git checkout main"
       - git submodule foreach "git pull"
   status:
