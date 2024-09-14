@@ -3,7 +3,7 @@ version: "3"
 tasks:
   init:
     cmds:
-      - git submodule update --init
+      - git submodule update --init --remote
       - git submodule absorbgitdirs
   sync:
     cmds:
