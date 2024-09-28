@@ -2,20 +2,24 @@ version: "3"
 
 tasks:
   init:
+    desc: Initializes & updates the multirepo.
     cmds:
       - git submodule update --init --remote
       - git submodule absorbgitdirs
   sync:
+    desc: Syncronizes the multirepo changes with the remote.
     cmds:
       - git submodule sync --recursive
       - git submodule update --recursive
       - git submodule foreach "git checkout main"
       - git submodule foreach "git pull"
   status:
+    desc: Prints the status for each submodule.
     cmds:
       - git submodule status
       - git submodule foreach "git status -s -b"
   stash:
+    desc: Stash all the changes made in each submodule.
     cmds:
       - git submodule foreach "git stash save -u"
       - git submodule foreach "git status -s -b"
