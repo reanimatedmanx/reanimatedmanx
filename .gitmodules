@@ -1,9 +1,9 @@
 #
 # Root.
 #
-[submodule "assets"]
-	url = git@github.com:reanimatedmanx/assets.git
-	path = assets
+[submodule "archive"]
+	url = git@github.com:reanimatedmanx/archive.git
+	path = archive
 	branch = main
 [submodule "configs/os"]
 	url = git@github.com:reanimatedmanx/os.git
