@@ -5,6 +5,10 @@
 	url = git@github.com:reanimatedmanx/archive.git
 	path = archive
 	branch = main
+[submodule "core"]
+	url = git@github.com:reanimatedmanx/core.git
+	path = core
+	branch = main
 [submodule "data"]
 	url = git@github.com:reanimatedmanx/data.git
 	path = data
