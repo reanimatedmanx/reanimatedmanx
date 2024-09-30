@@ -5,14 +5,17 @@
 	url = git@github.com:reanimatedmanx/archive.git
 	path = archive
 	branch = main
+	ignore = dirty
 [submodule "core"]
 	url = git@github.com:reanimatedmanx/core.git
 	path = core
 	branch = main
+	ignore = dirty
 [submodule "data"]
 	url = git@github.com:reanimatedmanx/data.git
 	path = data
 	branch = main
+	ignore = dirty
 #
 # Shared.
 #
@@ -20,26 +23,32 @@
 	url = git@github.com:reanimatedmanx/cli.git
 	path = shared/cli
 	branch = main
+	ignore = dirty
 [submodule "shared/wiki"]
 	url = git@github.com:reanimatedmanx/wiki.git
 	path = shared/wiki
 	branch = main
+	ignore = dirty
 [submodule "shared/infra"]
 	url = git@github.com:reanimatedmanx/infra.git
 	path = shared/infra
 	branch = main
+	ignore = dirty
 [submodule "shared/templates"]
 	url = git@github.com:reanimatedmanx/templates.git
 	path = shared/templates
 	branch = main
+	ignore = dirty
 [submodule "shared/sandbox"]
 	url = git@github.com:reanimatedmanx/sandbox.git
 	path = shared/sandbox
 	branch = main
+	ignore = dirty
 [submodule "shared/dashboard"]
 	url = git@github.com:reanimatedmanx/dashboard.git
 	path = shared/dashboard
 	branch = main
+	ignore = dirty
 
 #
 # Personal.
