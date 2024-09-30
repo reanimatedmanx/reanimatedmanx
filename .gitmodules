@@ -9,20 +9,10 @@
 	url = git@github.com:reanimatedmanx/core.git
 	path = core
 	branch = main
-
 [submodule "data"]
 	url = git@github.com:reanimatedmanx/data.git
 	path = data
 	branch = main
-
-#
-# Core
-#
-[submodule "core/os"]
-	url = git@github.com:reanimatedmanx/os.git
-	path = core/os
-	branch = main
-
 #
 # Shared.
 #
