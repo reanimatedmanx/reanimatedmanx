@@ -5,7 +5,6 @@ tasks:
     desc: Initializes & updates the multirepo.
     cmds:
       - git submodule update --init --remote
-      - git submodule absorbgitdirs
   sync:
     desc: Syncronizes the multirepo changes with the remote.
     cmds:
