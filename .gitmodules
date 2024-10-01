@@ -16,21 +16,7 @@
 	path = data
 	branch = main
 	ignore = dirty
-#
-# Shared.
-#
-[submodule "personal/projects/home"]
-	url = git@github.com:reanimatedmanx/home.git
-	path = personal/projects/home
-	branch = main
-[submodule "personal/projects/oss"]
-	url = git@github.com:reanimatedmanx/oss.git
-	path = personal/projects/oss
-	branch = main
-[submodule "personal/projects/legacy/l2jx"]
-	url = git@github.com:reanimatedmanx/l2jx.git
-	path = personal/projects/legacy/l2jx
-	branch = main
+
 [submodule "professional/organisation/vexeye/vexeye/vexx"]
 	url = git@github.com:vexeye/vexx.git
 	path = professional/organisation/vexeye/vexeye/vexx
