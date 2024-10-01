@@ -16,28 +16,3 @@
 	path = data
 	branch = main
 	ignore = dirty
-
-[submodule "professional/organisation/vexeye/vexeye/vexx"]
-	url = git@github.com:vexeye/vexx.git
-	path = professional/organisation/vexeye/vexeye/vexx
-	branch = main
-[submodule "professional/organisation/vexeye/vexeye/uix"]
-	url = git@github.com:vexeye/uix.git
-	path = professional/organisation/vexeye/vexeye/uix
-	branch = main
-[submodule "professional/organisation/vexeye/vexeye/hub"]
-	url = git@github.com:vexeye/hub.git
-	path = professional/organisation/vexeye/vexeye/hub
-	branch = main
-[submodule "professional/organisation/vexeye/vexeye-solutions/anamnesis"]
-	url = git@github.com:vexeye-solutions/anamnesis.git
-	path = professional/organisation/vexeye/vexeye-solutions/anamnesis
-	branch = main
-[submodule "professional/organisation/vexeye/vexeye-solutions/nyx"]
-	url = git@github.com:vexeye-solutions/nyx.git
-	path = professional/organisation/vexeye/vexeye-solutions/nyx
-	branch = main
-[submodule "professional/organisation/vexeye/vexeye-wellness/babycorp"]
-	url = git@github.com:vexeye-wellness/babycorp
-	path = professional/organisation/vexeye/vexeye-wellness/babycorp
-	branch = main
