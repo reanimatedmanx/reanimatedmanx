@@ -23,7 +23,7 @@ A few key points about my experience & passion.
 ### ⚡ Personal
 
 🧌 **RPG/JRPG/MMORPG fan**  
-👾 **Gamedev enthusiast**
+👾 **Gamedev enthusiast**  
 📸 **[Photography hobbyist](https://www.pexels.com/@reanimatedmanx/)**
 
 ---
