@@ -5,15 +5,16 @@
 
 👋 **Hi there!** I'm a developer with more than 10 years of experience across freelance, contract, and full-time jobs, contributing to projects in data visualization, finance, e-commerce, travel, entertainment, and game marketing. 
 
-My core expertise is **full-stack web development**; building cross-platform apps from a single codebase using embedded webviews in the **JS/TS/Node ecosystem**, always bringing a product-focused mindset and passion for quality to every project; molding into the environment I was placed in accordingly.  
-  
-**Formless, shapeless** [like water](https://www.youtube.com/watch?v=cJMwBwFj5nQ).
+My core expertise is **full-stack web development**; building cross-platform apps from a single codebase using embedded webviews in the **JS/TS/Node ecosystem**, always bringing a product-focused mindset and passion for quality to every project; molding into the environment I was placed in accordingly, formless, shapeless [like water](https://www.youtube.com/watch?v=cJMwBwFj5nQ).
 
 ---
 
 ### ⚡ Tech Stack
 
-A collection of technologies I've worked with across various projects, from enterprise applications to personal experiments. This stack represents my journey through different ecosystems and my commitment to staying current with modern development practices.
+A collection of technologies I've worked with across various projects, from enterprise applications to personal experiments.  
+
+<details>
+<summary>💥 tap dis</summary>
 
 | Category | Technologies |
 |----------|-------------|
@@ -24,6 +25,7 @@ A collection of technologies I've worked with across various projects, from ente
 | **Infrastructure** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![Traefik](https://img.shields.io/badge/Traefik-24A9E0?style=flat-square&logo=traefik&logoColor=white) ![NGINX](https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=nginx&logoColor=white)  ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white) ![Hetzner](https://img.shields.io/badge/Hetzner-D50C2D?style=flat-square&logo=hetzner&logoColor=white)   |
 | **Tools & Others** | ![Nix](https://img.shields.io/badge/Nix-5277C3?style=flat-square&logo=nixos&logoColor=white) ![SDKMAN](https://img.shields.io/badge/SDKMAN-000000?style=flat-square&logo=sdkman&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=flat-square&logo=gitlab&logoColor=white) ![Gitea](https://img.shields.io/badge/Gitea-609926?style=flat-square&logo=gitea&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)  |
 
+</details>
 
 ---
 
@@ -57,4 +59,4 @@ A few key points about my experience & passion.
 
 ---
 
-GH homepage - `v1.1.0-beta`
+GH homepage - `v1.1.1-beta`
