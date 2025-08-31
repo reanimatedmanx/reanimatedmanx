@@ -28,12 +28,27 @@
     | **Databases & ORMs** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-4479A1?style=for-the-badge&logo=mariadb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white) ![TypeORM](https://img.shields.io/badge/TypeORM-262627?style=for-the-badge&logo=typeorm&logoColor=white) ![MikroORM](https://img.shields.io/badge/MikroORM-000000?style=for-the-badge&logo=mikroorm&logoColor=white)  |
     | **Infrastructure** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) ![Traefik](https://img.shields.io/badge/Traefik-24A9E0?style=for-the-badge&logo=Traefik&logoColor=white) ![NGINX](https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white)  ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white) ![Hetzner](https://img.shields.io/badge/Hetzner-D50C2D?style=for-the-badge&logo=hetzner&logoColor=white)   |
     | **Tools & Others** | ![Nix](https://img.shields.io/badge/Nix-5277C3?style=for-the-badge&logo=nixos&logoColor=white) ![SDKMAN](https://img.shields.io/badge/SDKMAN-000000?style=for-the-badge&logo=sdkman&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white) ![Gitea](https://img.shields.io/badge/Gitea-609926?style=for-the-badge&logo=gitea&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)  |
+  </details>
+- <details>
+    <summary><strong>💼 Professional</strong></summary>
 
+    Work related stuff I did for various companies.
+
+    - **[📚 Interview challenges](https://github.com/reanimatedmanx/interviews)**  
+    - **[🏢 Companies](/professional/common/companies/README.md)**  
+    - **[✨ Projects](#)**  
+  </details>
+- <details>
+    <summary><strong>🖤 Personal</strong></summary>
+
+    Working with people also inevitably means connecting on different topics of pop-culture to ease the communication barier. Check out what I am interested after work and what common topics we might chit-chat about.
+
+    - **[✨ Projects](#)**  
+    - 👾 **Gamedev enthusiast**    
+    - 💌 **My RPG/JRPG/MMORPG Tierlist**  
+    - 💽 **My Playlists**  
+    - 📸 **[My Photography](https://www.pexels.com/@reanimatedmanx/)**
 </details>
-
-- **[📚 Interview challenges](https://github.com/reanimatedmanx/interviews)**
-- **[🏢 Companies](/professional/common/companies/README.md)**
-- **[✨ Projects](#)**
 
 <!--
 ## 👋 About
@@ -52,13 +67,4 @@ A few key points about my experience & passion.
 
 -->
 
-### 🖤 Personal
-
-💌 **RPG/JRPG/MMORPG**  
-👾 **Gamedev enthusiast**  
-💽 **Omni-music listener**  
-📸 **[Photography hobbyist](https://www.pexels.com/@reanimatedmanx/)**
-
----
-
-GH homepage - `v1.3.0`
+<!-- GH Homepage - `v1.4.0` -->
