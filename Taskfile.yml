@@ -4,23 +4,42 @@ tasks:
   init:
     desc: Initializes & updates the multirepo.
     cmds:
-      - git submodule update --init --recursive
-  init:latest:
+      - git submodule sync --recursive
+      - git submodule update --init --recursive --progress --verbose
+  init:remote:
     desc: Initializes & updates the multirepo with latest changes from the `main` branch of each submodule.
     cmds:
-      - git submodule update --init --recursive --remote
+      - git submodule sync --recursive
+      - git submodule update --init --recursive --remote --progress --verbose
   sync:
     desc: Syncronizes the multirepo changes with the remote.
     cmds:
       - git submodule sync --recursive
-      - git submodule update --recursive
-      - git submodule foreach "git checkout main"
-      - git submodule foreach "git pull"
+      - git submodule update --init --recursive
+      - git submodule foreach --recursive "git checkout main"
+      - git submodule foreach --recursive "git pull"
   status:
     desc: Prints the status for each submodule.
     cmds:
-      - git submodule status
-      - git submodule foreach "git status -s -b"
+      - git submodule status --recursive
+      - git submodule foreach --recursive "git status -s -b"
+    aliases: [st]
+  view:remotes:
+    desc: Prints the remote tracking information for each submodule.
+    cmds:
+      - git submodule foreach --recursive "git remote -v"
+    aliases: [vr]
+  view:stashes:
+    desc: Prints all stashed changes for each submodule (cleaned & colored).
+    cmds:
+      - >-
+        git submodule foreach --recursive 'bash -c "
+          if [ -n \"$(git stash list)\" ]; then
+            printf \"\033[1;36m%s\033[0m:\n\" \"$name\";
+            git stash list | sed \"s/stash@{/  #/; s/}: On / [/; s/]: /] /\";
+          fi
+        "' 2>&1 | rg -v "Entering"
+    aliases: [vs]
   stash:
     desc: Stash all the changes made in each submodule.
     cmds:
