@@ -4,7 +4,11 @@ tasks:
   init:
     desc: Initializes & updates the multirepo.
     cmds:
-      - git submodule update --init --remote
+      - git submodule update --init --recursive
+  init:latest:
+    desc: Initializes & updates the multirepo with latest changes from the `main` branch of each submodule.
+    cmds:
+      - git submodule update --init --recursive --remote
   sync:
     desc: Syncronizes the multirepo changes with the remote.
     cmds:
@@ -22,4 +26,8 @@ tasks:
     cmds:
       - git submodule foreach "git stash save -u"
       - git submodule foreach "git status -s -b"
-
+  backup:
+    aliases: [bkp]
+    desc: Backup a local copy of all the files excluding the ones defined in .gitignore files.
+    cmds:
+      - python scripts/backup.py

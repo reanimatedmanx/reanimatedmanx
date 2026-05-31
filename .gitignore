@@ -1,2 +1,4 @@
 .stash/*
 !.stash/.keep
+.backup
+.vs
