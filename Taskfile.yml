@@ -50,3 +50,16 @@ tasks:
     desc: Backup a local copy of all the files excluding the ones defined in .gitignore files.
     cmds:
       - python scripts/backup.py
+  cleanfs:merge:
+    desc: Walk the tree for .gitignore files and write deduplicated .gitignore.cleanfs.
+    cmds:
+      - python scripts/cleanfs.py merge
+  cleanfs:
+    desc: Remove paths matching .gitignore.cleanfs (commented lines are skipped).
+    cmds:
+      - python scripts/cleanfs.py clean
+    aliases: [cfs]
+  cleanfs:dry-run:
+    desc: Show how much disk space cleanfs would reclaim without deleting.
+    cmds:
+      - python scripts/cleanfs.py clean --dry-run
