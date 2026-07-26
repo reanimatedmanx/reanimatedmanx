@@ -1,4 +1,6 @@
+__pycache__
 .stash/*
 !.stash/.keep
+.reports
 .backup
 .vs

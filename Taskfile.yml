@@ -50,3 +50,23 @@ tasks:
     desc: Backup a local copy of all the files excluding the ones defined in .gitignore files.
     cmds:
       - python scripts/backup.py
+  report:status:
+    desc: Report uncommitted and unpushed changes (root + nested submodules) to .reports.
+    cmds:
+      - python scripts/report_status.py
+    aliases: [rs]
+  report:stashes:
+    desc: Report git stashes across root and nested submodules to .reports.
+    cmds:
+      - python scripts/report_stashes.py
+    aliases: [rst]
+  report:branches:
+    desc: Report non-main/master local branches not yet on origin to .reports.
+    cmds:
+      - python scripts/report_branches.py
+    aliases: [rb]
+  report:repos:
+    desc: Compare remote repos (gh, then tea fallback) with local/nested git projects; write Markdown to .reports.
+    cmds:
+      - python scripts/report_repos.py
+    aliases: [rr]
