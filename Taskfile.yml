@@ -70,3 +70,12 @@ tasks:
     cmds:
       - python scripts/report_repos.py
     aliases: [rr]
+  report:clean:
+    desc: Delete old .reports files, keeping only the latest per category (status/stashes/branches/repos).
+    cmds:
+      - python scripts/report_clean.py
+    aliases: [rc]
+  report:clean:dry-run:
+    desc: Show which old .reports files would be deleted without removing them.
+    cmds:
+      - python scripts/report_clean.py --dry-run
